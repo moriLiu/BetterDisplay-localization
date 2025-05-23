@@ -593,7 +593,7 @@ Please reactivate this installation to continue using Pro features.</source>
       </trans-unit>
       <trans-unit id="Activate this display group when…" xml:space="preserve">
         <source>Activate this display group when…</source>
-        <target state="translated">Activate this display group when…</target>
+        <target state="translated">當出現以下情況時，啟用此顯示器群組</target>
         <note/>
       </trans-unit>
       <trans-unit id="Activated only when the display is not set as main so it does not interfere with the lock screen. Most displays do not support turning the backlight off or back on via DDC." xml:space="preserve">
@@ -768,7 +768,7 @@ Please reactivate this installation to continue using Pro features.</source>
       </trans-unit>
       <trans-unit id="Adds additional resolutions on some configurations but usually just breaks the slider. Affects resolution keyboard shortcuts as well." xml:space="preserve">
         <source>Adds additional resolutions on some configurations but usually just breaks the slider. Affects resolution keyboard shortcuts as well.</source>
-        <target state="translated">在某些設定中增加額外的解析度通常僅破壞滑桿。仍可用鍵盤快捷鍵調整解析度。</target>
+        <target state="translated">在某些設定下會增加額外的解析度選項，但通常只會讓滑桿故障。也會影響解析度鍵盤快捷鍵。</target>
         <note/>
       </trans-unit>
       <trans-unit id="Adjust anchor point offsets" xml:space="preserve">
@@ -852,7 +852,7 @@ You can do this in System Settings or the app can do it for you (administrator c
       </trans-unit>
       <trans-unit id="All display group members are present." xml:space="preserve">
         <source>All display group members are present.</source>
-        <target state="translated">All display group members are present.</target>
+        <target state="translated">所有顯示器群組成員皆已顯示</target>
         <note/>
       </trans-unit>
       <trans-unit id="All group members are sync targets" xml:space="preserve">
@@ -932,7 +932,7 @@ You can do this in System Settings or the app can do it for you (administrator c
       </trans-unit>
       <trans-unit id="Allow resolutions marked as invalid" xml:space="preserve">
         <source>Allow resolutions marked as invalid</source>
-        <target state="translated">允許標記為無效的解析度</target>
+        <target state="translated">顯示無效的解析度</target>
         <note/>
       </trans-unit>
       <trans-unit id="Allow restore to full dimming" xml:space="preserve">
@@ -1032,7 +1032,7 @@ You can do this in System Settings or the app can do it for you (administrator c
       </trans-unit>
       <trans-unit id="Always show the current main display at the top." xml:space="preserve">
         <source>Always show the current main display at the top.</source>
-        <target state="translated">始終在頂部顯示目前主顯示器。</target>
+        <target state="translated">始終在選單首位顯示目前主顯示器。</target>
         <note/>
       </trans-unit>
       <trans-unit id="Always show this Sidecar display in the app menu when the system reports it as available for connect. Requires enabled display connection management." xml:space="preserve">
@@ -1107,7 +1107,7 @@ You can do this in System Settings or the app can do it for you (administrator c
       </trans-unit>
       <trans-unit id="App menu transition animation speed" xml:space="preserve">
         <source>App menu transition animation speed</source>
-        <target state="translated">應用程式選單過渡動畫速度</target>
+        <target state="translated">應用程式選單轉換動畫速度</target>
         <note/>
       </trans-unit>
       <trans-unit id="App notification style" xml:space="preserve">
@@ -1498,7 +1498,7 @@ Specifying read length is optional - leave the field empty for autodetect.</sour
       </trans-unit>
       <trans-unit id="Automatically launch on login" xml:space="preserve">
         <source>Automatically launch on login</source>
-        <target state="translated">登錄時自啟動</target>
+        <target state="translated">登入時自動啟動</target>
         <note/>
       </trans-unit>
       <trans-unit id="Automatically remove stored configuration details for displays that have not been connected for a while." xml:space="preserve">
@@ -2163,7 +2163,7 @@ Specifying read length is optional - leave the field empty for autodetect.</sour
       </trans-unit>
       <trans-unit id="Command control" xml:space="preserve">
         <source>Command control</source>
-        <target state="translated">命令控制</target>
+        <target state="translated">指令控制</target>
         <note/>
       </trans-unit>
       <trans-unit id="Compresses the allowed software brightness range between the specified value and 100%, affecting the software component of combined brightness control as well. This helps avoid accidentally setting the software brightness level too low or to zero." xml:space="preserve">
@@ -2598,7 +2598,7 @@ Specifying read length is optional - leave the field empty for autodetect.</sour
       </trans-unit>
       <trans-unit id="Current resolution (width x height) is shown as text inside when enabled." xml:space="preserve">
         <source>Current resolution (width x height) is shown as text inside when enabled.</source>
-        <target state="translated">啟用內部顯示目前解析度（寬度 x 高度）文本。</target>
+        <target state="translated">啟用內部顯示目前解析度（寬度 x 高度）文字。</target>
         <note/>
       </trans-unit>
       <trans-unit id="Current system display name" xml:space="preserve">
@@ -2663,12 +2663,12 @@ Specifying read length is optional - leave the field empty for autodetect.</sour
       </trans-unit>
       <trans-unit id="Custom controls can be assigned to custom DDC, CLI or network based features for various devices and can be used for syncing with display groups." xml:space="preserve">
         <source>Custom controls can be assigned to custom DDC, CLI or network based features for various devices and can be used for syncing with display groups.</source>
-        <target state="translated">自訂控制可分配給針對各種設備的自訂 DDC、命令列或網路功能，並可用於與顯示器群組同步。</target>
+        <target state="translated">自訂控制可分配給針對各種設備的自訂 DDC、指令列或網路功能，並可用於與顯示器群組同步。</target>
         <note/>
       </trans-unit>
       <trans-unit id="Custom controls can be assigned to custom DDC, CLI or network based features for various devices and can be used for syncing with display groups. Hold ⌥ Option when opening to show predefined controls." xml:space="preserve">
         <source>Custom controls can be assigned to custom DDC, CLI or network based features for various devices and can be used for syncing with display groups. Hold ⌥ Option when opening to show predefined controls.</source>
-        <target state="translated">自訂控制可分配給針對各種設備的自訂 DDC、命令列或網路功能，並可用於與顯示器群組同步。按住 ⌥ Option 開啟以顯示預設控制項。</target>
+        <target state="translated">自訂控制可分配給針對各種設備的自訂 DDC、指令列或網路功能，並可用於與顯示器群組同步。按住 ⌥ Option 開啟以顯示預設控制項。</target>
         <note/>
       </trans-unit>
       <trans-unit id="Custom display groups require Pro." xml:space="preserve">
@@ -2678,7 +2678,7 @@ Specifying read length is optional - leave the field empty for autodetect.</sour
       </trans-unit>
       <trans-unit id="Custom displayed icon SF Symbol name" xml:space="preserve">
         <source>Custom displayed icon SF Symbol name</source>
-        <target state="translated">自訂顯示圖示的 SF Symbol 名稱</target>
+        <target state="translated">自訂圖示的 SF Symbol 名稱</target>
         <note/>
       </trans-unit>
       <trans-unit id="Custom displayed name" xml:space="preserve">
@@ -2708,7 +2708,7 @@ Specifying read length is optional - leave the field empty for autodetect.</sour
       </trans-unit>
       <trans-unit id="Custom scaled resolutions are added to the resolution list both as low resolution and HiDPI versions if possible." xml:space="preserve">
         <source>Custom scaled resolutions are added to the resolution list both as low resolution and HiDPI versions if possible.</source>
-        <target state="translated">如可能，自訂縮放解析度會以低解析度和 HiDPI 版本添加到解析度列表。</target>
+        <target state="translated">如可能，自訂縮放解析度會以低解析度和 HiDPI 版本增加到解析度列表。</target>
         <note/>
       </trans-unit>
       <trans-unit id="Customize App Menu Contents…" xml:space="preserve">
@@ -2933,7 +2933,7 @@ Specifying read length is optional - leave the field empty for autodetect.</sour
       </trans-unit>
       <trans-unit id="Decrease gamma" xml:space="preserve">
         <source>Decrease gamma</source>
-        <target state="translated">減小伽馬值</target>
+        <target state="translated">減少伽瑪值</target>
         <note/>
       </trans-unit>
       <trans-unit id="Decrease resolution or magnification" xml:space="preserve">
@@ -3038,7 +3038,7 @@ Specifying read length is optional - leave the field empty for autodetect.</sour
       </trans-unit>
       <trans-unit id="Delay between commands" xml:space="preserve">
         <source>Delay between commands</source>
-        <target state="translated">命令之間的延遲</target>
+        <target state="translated">指令之間的延遲</target>
         <note/>
       </trans-unit>
       <trans-unit id="Delete" xml:space="preserve">
@@ -3202,7 +3202,7 @@ Specifying read length is optional - leave the field empty for autodetect.</sour
       </trans-unit>
       <trans-unit id="Disabling this allows more direct video adjustments by removing graceful transition smoothing. Also reduces the number of operations for DDC control." xml:space="preserve">
         <source>Disabling this allows more direct video adjustments by removing graceful transition smoothing. Also reduces the number of operations for DDC control.</source>
-        <target state="translated">禁用此功能可通過移除優雅的平滑過渡來實現更直接的影像調整。還可減少 DDC 控制的操作次數。</target>
+        <target state="translated">禁用此功能可通過移除優雅的平滑轉換來實現更直接的影像調整。還可減少 DDC 控制的操作次數。</target>
         <note/>
       </trans-unit>
       <trans-unit id="Disassociate" xml:space="preserve">
@@ -4036,7 +4036,7 @@ The process does not work for the built-in display (reboot needed). The operatio
       </trans-unit>
       <trans-unit id="Expandable menu items unfold inside the main app menu. When turned off, the app shows a floating popup submenu right or left (depending on available space)." xml:space="preserve">
         <source>Expandable menu items unfold inside the main app menu. When turned off, the app shows a floating popup submenu right or left (depending on available space).</source>
-        <target state="translated">可展開選單在應用程式主選單內展開。關閉此選項時應用程式會向右或向左（取決於可用空間）顯示一個浮動彈出式子選單。</target>
+        <target state="translated">選單會在程式主選單內展開。關閉此選項時應用程式會向右或向左（取決於可用空間）彈出一個子選單。</target>
         <note/>
       </trans-unit>
       <trans-unit id="Expanding menu items" xml:space="preserve">
@@ -4161,7 +4161,7 @@ The process does not work for the built-in display (reboot needed). The operatio
       </trans-unit>
       <trans-unit id="For easier identification of slider functionality." xml:space="preserve">
         <source>For easier identification of slider functionality.</source>
-        <target state="translated">便於識別滑感功能。</target>
+        <target state="translated">便於識別滑桿功能。</target>
         <note/>
       </trans-unit>
       <trans-unit id="Force support for color table adjustments" xml:space="preserve">
@@ -4286,22 +4286,22 @@ The process does not work for the built-in display (reboot needed). The operatio
       </trans-unit>
       <trans-unit id="Gamma" xml:space="preserve">
         <source>Gamma</source>
-        <target state="translated">伽馬值</target>
+        <target state="translated">伽瑪值</target>
         <note/>
       </trans-unit>
       <trans-unit id="Gamma (Blue)" xml:space="preserve">
         <source>Gamma (Blue)</source>
-        <target state="translated">伽馬值（藍色）</target>
+        <target state="translated">伽瑪值（藍色）</target>
         <note/>
       </trans-unit>
       <trans-unit id="Gamma (Green)" xml:space="preserve">
         <source>Gamma (Green)</source>
-        <target state="translated">伽馬值（綠色）</target>
+        <target state="translated">伽瑪值（綠色）</target>
         <note/>
       </trans-unit>
       <trans-unit id="Gamma (Red)" xml:space="preserve">
         <source>Gamma (Red)</source>
-        <target state="translated">伽馬值（紅色）</target>
+        <target state="translated">伽瑪值（紅色）</target>
         <note/>
       </trans-unit>
       <trans-unit id="Gaussian Blur" xml:space="preserve">
@@ -4371,7 +4371,7 @@ The process does not work for the built-in display (reboot needed). The operatio
       </trans-unit>
       <trans-unit id="Grayscale Framebuffer" xml:space="preserve">
         <source>Grayscale Framebuffer</source>
-        <target state="translated">灰階幀緩存 </target>
+        <target state="translated">灰階影格緩衝區 </target>
         <note/>
       </trans-unit>
       <trans-unit id="Green Black Level (Hardware)" xml:space="preserve">
@@ -4666,7 +4666,7 @@ The process does not work for the built-in display (reboot needed). The operatio
       </trans-unit>
       <trans-unit id="If disabled, Quit %@ is listed in the Tools menu." xml:space="preserve">
         <source>If disabled, Quit %@ is listed in the Tools menu.</source>
-        <target state="translated">如已禁用，退出 %@ 在 工具 選單中列出</target>
+        <target state="translated">如已禁用，「退出 %@」 會在「工具」選單中列出</target>
         <note/>
       </trans-unit>
       <trans-unit id="If keyboard control is set to the display that matches the current audio device name (set this up under Keyboard settings), this value will be used for audio device matching instead of the display name." xml:space="preserve">
@@ -4676,7 +4676,7 @@ The process does not work for the built-in display (reboot needed). The operatio
       </trans-unit>
       <trans-unit id="If no perfect resolution is available for perfect scale matching, the app will look for the closest resolution in the vicinity within the given tolerance." xml:space="preserve">
         <source>If no perfect resolution is available for perfect scale matching, the app will look for the closest resolution in the vicinity within the given tolerance.</source>
-        <target state="translated">如果沒有完美的解析度來實現完美的比例匹配，應用程式會在給定的容差範圍內尋找最接近的解析度。</target>
+        <target state="translated">如果沒有完美的解析度來實現完美的比例匹配，應用程式會在給定的誤差範圍內尋找最接近的解析度。</target>
         <note/>
       </trans-unit>
       <trans-unit id="If read is configured." xml:space="preserve">
@@ -4711,7 +4711,7 @@ The process does not work for the built-in display (reboot needed). The operatio
       </trans-unit>
       <trans-unit id="If the menu icon is hidden, you can reveal the icon by re-launching the app while the app is already running." xml:space="preserve">
         <source>If the menu icon is hidden, you can reveal the icon by re-launching the app while the app is already running.</source>
-        <target state="translated">選單圖示被隱藏時可在應用程運作時重新開啟應用程式來顯示圖示。</target>
+        <target state="translated">選單圖示被隱藏時，可在應用程運作時重新開啟應用程式來顯示圖示。</target>
         <note/>
       </trans-unit>
       <trans-unit id="If the updated EDID contains new display identity (serial number, model ID, vendor ID), macOS will treat the display as a separate display. With this option enabled, %@ preserves continuity between the old and new identity during the current app session." xml:space="preserve">
@@ -4825,12 +4825,12 @@ Not all displays support DDC power operations. DDC power operations can cause (e
       </trans-unit>
       <trans-unit id="Increase display brightness beyond 100%. Requires an Apple XDR display or a HDR capable external display in HDR mode. The feature works with color table adjustments enabled on Apple Silicon Macs or with it disabled (using Metal based overlay brightness control) on all platforms. Upscaling using Metal may increase CPU and GPU usage on some systems." xml:space="preserve">
         <source>Increase display brightness beyond 100%. Requires an Apple XDR display or a HDR capable external display in HDR mode. The feature works with color table adjustments enabled on Apple Silicon Macs or with it disabled (using Metal based overlay brightness control) on all platforms. Upscaling using Metal may increase CPU and GPU usage on some systems.</source>
-        <target state="translated">將顯示器亮度提升至 100% 以上。需要 Apple XDR 顯示器或處於 HDR 模式的外接 HDR 顯示器。此功能可在 Apple Silicon Mac 上啟用色表調整或在所有平台上禁用色表調整 (采用基於 Metal 的覆蓋層亮度控制)。使用 Metal 提升可能增加某些系統的 CPU 和 GPU 占用率。</target>
+        <target state="translated">將顯示器亮度提升至 100% 以上。需要 Apple XDR 顯示器或處於 HDR 模式的外接 HDR 顯示器。此功能可在 Apple Silicon Mac 上啟用色表調整或在所有平台上禁用色表調整 (使用基於 Metal 的覆蓋層亮度控制)。使用 Metal 提升可能增加某些系統的 CPU 和 GPU 占用率。</target>
         <note/>
       </trans-unit>
       <trans-unit id="Increase gamma" xml:space="preserve">
         <source>Increase gamma</source>
-        <target state="translated">增大伽馬值</target>
+        <target state="translated">增大伽瑪值</target>
         <note/>
       </trans-unit>
       <trans-unit id="Increase resolution or magnification" xml:space="preserve">
@@ -4950,12 +4950,12 @@ Not all displays support DDC power operations. DDC power operations can cause (e
       </trans-unit>
       <trans-unit id="Inverted Framebuffer" xml:space="preserve">
         <source>Inverted Framebuffer</source>
-        <target state="translated"> 反色幀緩存</target>
+        <target state="translated"> 反轉影格緩衝區</target>
         <note/>
       </trans-unit>
       <trans-unit id="Inverted Grayscale Framebuffer" xml:space="preserve">
         <source>Inverted Grayscale Framebuffer</source>
-        <target state="translated">反色灰度幀緩存</target>
+        <target state="translated">反轉灰階影格緩衝區</target>
         <note/>
       </trans-unit>
       <trans-unit id="Invoke URL" xml:space="preserve">
@@ -4965,17 +4965,17 @@ Not all displays support DDC power operations. DDC power operations can cause (e
       </trans-unit>
       <trans-unit id="Issue mute command first, then set volume level to lowest setting" xml:space="preserve">
         <source>Issue mute command first, then set volume level to lowest setting</source>
-        <target state="translated">發出靜音命令後將音量調至最低</target>
+        <target state="translated">發出靜音指令後將音量調至最低</target>
         <note/>
       </trans-unit>
       <trans-unit id="Issue mute command only" xml:space="preserve">
         <source>Issue mute command only</source>
-        <target state="translated">僅發出靜音命令</target>
+        <target state="translated">僅發出靜音指令</target>
         <note/>
       </trans-unit>
       <trans-unit id="Issue unmute command first, then set volume level" xml:space="preserve">
         <source>Issue unmute command first, then set volume level</source>
-        <target state="translated">發出取消靜音命令後設定音量級別</target>
+        <target state="translated">發出取消靜音指令後設定音量級別</target>
         <note/>
       </trans-unit>
       <trans-unit id="It is advised to leave this on, especially if the custom EDID alters display identity. Without this the app may detect the display as different upon next startup." xml:space="preserve">
@@ -5095,7 +5095,7 @@ Not all displays support DDC power operations. DDC power operations can cause (e
       </trans-unit>
       <trans-unit id="Let the Tools menu behave like the display menus." xml:space="preserve">
         <source>Let the Tools menu behave like the display menus.</source>
-        <target state="translated">使 工具 選單行為像顯示器選單一樣。</target>
+        <target state="translated">使「工具」選單行為像顯示器選單一樣。</target>
         <note/>
       </trans-unit>
       <trans-unit id="Let the app control display hardware luminance (backlight for backlit displays) if this feature is available." xml:space="preserve">
@@ -5215,7 +5215,7 @@ Not all displays support DDC power operations. DDC power operations can cause (e
       </trans-unit>
       <trans-unit id="Load an EDID binary image exported by %@ (or other tools). You can also use an EDID binary created/modified by an EDID editor like AW EDID Editor. If you have a Base64 text representation of an EDID image, use the 'Paste Base64' button to load it." xml:space="preserve">
         <source>Load an EDID binary image exported by %@ (or other tools). You can also use an EDID binary created/modified by an EDID editor like AW EDID Editor. If you have a Base64 text representation of an EDID image, use the 'Paste Base64' button to load it.</source>
-        <target state="translated">載入由 %@（或其他工具）導出的 EDID 二進制文件。您也可使用由 EDID 編輯器（如AW EDID Editor）新增/更改的EDID 二進制文件。如果您有 EDID 圖形的 Base64 字串標識，使用 "貼上 Base64 文本" 按鈕來載入它。</target>
+        <target state="translated">載入由 %@（或其他工具）導出的 EDID 二進制文件。您也可使用由 EDID 編輯器（如AW EDID Editor）新增/更改的EDID 二進制文件。如果您有 EDID 圖形的 Base64 字串標識，使用 "貼上 Base64 字串" 按鈕來載入它。</target>
         <note/>
       </trans-unit>
       <trans-unit id="Loaded EDID Data" xml:space="preserve">
@@ -5275,7 +5275,7 @@ Not all displays support DDC power operations. DDC power operations can cause (e
       </trans-unit>
       <trans-unit id="Make Tools menu collapsible instead of closable" xml:space="preserve">
         <source>Make Tools menu collapsible instead of closable</source>
-        <target state="translated">使 工具 選單可折疊而非可關閉</target>
+        <target state="translated">「工具」選單改為折疊樣式而非開關樣式</target>
         <note/>
       </trans-unit>
       <trans-unit id="Make fine scale default for brightness keys" xml:space="preserve">
@@ -5350,7 +5350,7 @@ Not all displays support DDC power operations. DDC power operations can cause (e
       </trans-unit>
       <trans-unit id="Match menu icon with main display icon" xml:space="preserve">
         <source>Match menu icon with main display icon</source>
-        <target state="translated">在選單匹配主顯示器圖示</target>
+        <target state="translated">在選單列顯示對應的主顯示器圖示</target>
         <note/>
       </trans-unit>
       <trans-unit id="Match name only" xml:space="preserve">
@@ -5385,7 +5385,7 @@ Not all displays support DDC power operations. DDC power operations can cause (e
       </trans-unit>
       <trans-unit id="Matching tolerance" xml:space="preserve">
         <source>Matching tolerance</source>
-        <target state="translated">匹配容差</target>
+        <target state="translated">匹配誤差</target>
         <note/>
       </trans-unit>
       <trans-unit id="Max HW" xml:space="preserve">
@@ -5994,7 +5994,7 @@ Not all displays support DDC power operations. DDC power operations can cause (e
       </trans-unit>
       <trans-unit id="Number of times to send a DDC command" xml:space="preserve">
         <source>Number of times to send a DDC command</source>
-        <target state="translated">發送 DDC 命令次數</target>
+        <target state="translated">發送 DDC 指令次數</target>
         <note/>
       </trans-unit>
       <trans-unit id="Numeric and alphanumeric serial" xml:space="preserve">
@@ -6119,12 +6119,12 @@ Not all displays support DDC power operations. DDC power operations can cause (e
       </trans-unit>
       <trans-unit id="Paste" xml:space="preserve">
         <source>Paste</source>
-        <target state="translated">粘貼</target>
+        <target state="translated">貼上</target>
         <note/>
       </trans-unit>
       <trans-unit id="Paste Base64" xml:space="preserve">
         <source>Paste Base64</source>
-        <target state="translated">粘貼 Base64 文本</target>
+        <target state="translated">貼上 Base64 字串</target>
         <note/>
       </trans-unit>
       <trans-unit id="Pause Picture in Picture" xml:space="preserve">
@@ -7380,7 +7380,7 @@ Not all displays support DDC power operations. DDC power operations can cause (e
       </trans-unit>
       <trans-unit id="Send Custom DDC command" xml:space="preserve">
         <source>Send Custom DDC command</source>
-        <target state="translated">發送自訂 DDC 命令</target>
+        <target state="translated">發送自訂 DDC 指令</target>
         <note/>
       </trans-unit>
       <trans-unit id="Send DDC ${ddcCommand} with ${valueParameter} to ${displayEntity}." xml:space="preserve">
@@ -7395,22 +7395,22 @@ Not all displays support DDC power operations. DDC power operations can cause (e
       </trans-unit>
       <trans-unit id="Send DDC command" xml:space="preserve">
         <source>Send DDC command</source>
-        <target state="translated">發送 DDC 命令</target>
+        <target state="translated">發送 DDC 指令</target>
         <note/>
       </trans-unit>
       <trans-unit id="Send SCS command after write" xml:space="preserve">
         <source>Send SCS command after write</source>
-        <target state="translated">寫入後發送SCS命令</target>
+        <target state="translated">寫入後發送 SCS 指令</target>
         <note/>
       </trans-unit>
       <trans-unit id="Send a DDC command (with value) to a display." xml:space="preserve">
         <source>Send a DDC command (with value) to a display.</source>
-        <target state="translated">向顯示器發送 DDC 命令（帶有值）。</target>
+        <target state="translated">向顯示器發送 DDC 指令（帶有值）。</target>
         <note/>
       </trans-unit>
       <trans-unit id="Send a custom DDC command (with value) to a display." xml:space="preserve">
         <source>Send a custom DDC command (with value) to a display.</source>
-        <target state="translated">向顯示器發送自訂 DDC 命令（設定數值）。</target>
+        <target state="translated">向顯示器發送自訂 DDC 指令（設定數值）。</target>
         <note/>
       </trans-unit>
       <trans-unit id="Sepia" xml:space="preserve">
@@ -7425,7 +7425,7 @@ Not all displays support DDC power operations. DDC power operations can cause (e
       </trans-unit>
       <trans-unit id="Serves as a confirmation that the app has launched and adds the app to recent items in the Dock (if the app is installed in the Applications folder)." xml:space="preserve">
         <source>Serves as a confirmation that the app has launched and adds the app to recent items in the Dock (if the app is installed in the Applications folder).</source>
-        <target state="translated">用於確認應用程式已啟動並將應用程式添加到程式塢的最近項目 (如果此應用程式安裝在 `/Applications` 應用程式文件夾中)。</target>
+        <target state="translated">用於確認應用程式已啟動，並將應用程式新增到 Dock 的最近項目欄位 (如果安裝在 `應用程式` 資料夾中)。</target>
         <note/>
       </trans-unit>
       <trans-unit id="Set ${displayEntity} as main." xml:space="preserve">
@@ -7555,7 +7555,7 @@ Not all displays support DDC power operations. DDC power operations can cause (e
       </trans-unit>
       <trans-unit id="Set the brightness slider as high as possible! Also make sure you still barely see the smiling face! If you don't see the smiling face when the slider is set to the lowest setting, you need to adjust your display's hardware controls (contrast, gamma) first to fix the white saturation problem." xml:space="preserve">
         <source>Set the brightness slider as high as possible! Also make sure you still barely see the smiling face! If you don't see the smiling face when the slider is set to the lowest setting, you need to adjust your display's hardware controls (contrast, gamma) first to fix the white saturation problem.</source>
-        <target state="translated">將亮度滑桿設定得越高越好！您還需要確保能勉強看到笑臉！如果滑桿設定到最低時看不到笑臉，則需要先調整顯示器的硬體控制（對比度、伽馬值）解決白色飽和度問題。</target>
+        <target state="translated">將亮度滑桿設定得越高越好！您還需要確保能勉強看到笑臉！如果滑桿設定到最低時看不到笑臉，則需要先調整顯示器的硬體控制（對比度、伽瑪值）解決白色飽和度問題。</target>
         <note/>
       </trans-unit>
       <trans-unit id="Set the color mode of ${displayEntity} to ${depth}-bit with ${encoding} ${subsampling} encoding and ${range} range if supported by the current display mode." xml:space="preserve">
@@ -7585,12 +7585,12 @@ Not all displays support DDC power operations. DDC power operations can cause (e
       </trans-unit>
       <trans-unit id="Set volume level first, then issue unmute command" xml:space="preserve">
         <source>Set volume level first, then issue unmute command</source>
-        <target state="translated">設定音量大小後發出取消靜音命令</target>
+        <target state="translated">設定音量大小後發出取消靜音指令</target>
         <note/>
       </trans-unit>
       <trans-unit id="Set volume level to lowest setting first, then issue mute command" xml:space="preserve">
         <source>Set volume level to lowest setting first, then issue mute command</source>
-        <target state="translated">音量調至最低後發出靜音命令</target>
+        <target state="translated">音量調至最低後發出靜音指令</target>
         <note/>
       </trans-unit>
       <trans-unit id="Set volume to lowest setting" xml:space="preserve">
@@ -7600,7 +7600,7 @@ Not all displays support DDC power operations. DDC power operations can cause (e
       </trans-unit>
       <trans-unit id="Sets the minimum allowed hardware brightness value (on its own scale) below which software dimming kicks-in when using combined brightness control. This setting is useful for those with PWM sensitivity as it prohibits backlight control from entering heavy PWM range, substituting it with software dimming instead." xml:space="preserve">
         <source>Sets the minimum allowed hardware brightness value (on its own scale) below which software dimming kicks-in when using combined brightness control. This setting is useful for those with PWM sensitivity as it prohibits backlight control from entering heavy PWM range, substituting it with software dimming instead.</source>
-        <target state="translated">設定允許的最小硬體亮度值（據其規模），低於此值軟體調光時采用組合亮度控制。此設定對可調 PWM 靈敏度卻禁止背光控制 PWM 廣域的顯示器會有用，采用軟體調光作為替代方案。</target>
+        <target state="translated">設定允許的最小硬體亮度值（根據其硬體容許範圍），如低於此值，軟體調光將使用組合亮度控制。此設定對可調 PWM 靈敏度卻禁止背光控制 PWM 廣域的顯示器會有用，使用軟體調光作為替代方案。</target>
         <note/>
       </trans-unit>
       <trans-unit id="Settings made with the app are protected." xml:space="preserve">
@@ -7700,7 +7700,7 @@ Not all displays support DDC power operations. DDC power operations can cause (e
       </trans-unit>
       <trans-unit id="Show Quit %@ in the button bar" xml:space="preserve">
         <source>Show Quit %@ in the button bar</source>
-        <target state="translated">顯示底部按鈕欄的退出 %@</target>
+        <target state="translated">顯示底部按鈕欄的「退出 %@」按鈕</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show Settings in the button bar" xml:space="preserve">
@@ -7720,7 +7720,7 @@ Not all displays support DDC power operations. DDC power operations can cause (e
       </trans-unit>
       <trans-unit id="Show app icon in the menu bar" xml:space="preserve">
         <source>Show app icon in the menu bar</source>
-        <target state="translated">在選單顯示應用程式圖示</target>
+        <target state="translated">在選單列顯示應用程式圖示</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show app menu" xml:space="preserve">
@@ -7735,12 +7735,12 @@ Not all displays support DDC power operations. DDC power operations can cause (e
       </trans-unit>
       <trans-unit id="Show button bar at the top of the menu" xml:space="preserve">
         <source>Show button bar at the top of the menu</source>
-        <target state="translated">在選單頂部顯示按鈕欄</target>
+        <target state="translated">將底部設定選項改為顯示在頂端</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show connect/disconnect in menu even if header has it as switch" xml:space="preserve">
         <source>Show connect/disconnect in menu even if header has it as switch</source>
-        <target state="translated">即使標題欄已將其作為開關仍在選單中顯示連接/斷開，</target>
+        <target state="translated">即使顯示器標題列已有開關選項，仍在其選單中顯示連接/斷開選項</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show current resolution values" xml:space="preserve">
@@ -7805,7 +7805,7 @@ Not all displays support DDC power operations. DDC power operations can cause (e
       </trans-unit>
       <trans-unit id="Show main display at the top" xml:space="preserve">
         <source>Show main display at the top</source>
-        <target state="translated">在頂部顯示主顯示器</target>
+        <target state="translated">選單首位固定顯示主顯示器</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show native underscan slider in the Image Adjustments menu even if this capability is not detected. The force-enabled slider might not work or can cause system issues or crash the application." xml:space="preserve">
@@ -7908,7 +7908,7 @@ Not all displays support DDC power operations. DDC power operations can cause (e
       </trans-unit>
       <trans-unit id="Smooth transitions" xml:space="preserve">
         <source>Smooth transitions</source>
-        <target state="translated">平滑過渡</target>
+        <target state="translated">平滑轉換</target>
         <note/>
       </trans-unit>
       <trans-unit id="Snap to 25% Steps" xml:space="preserve">
@@ -7938,7 +7938,7 @@ Not all displays support DDC power operations. DDC power operations can cause (e
       </trans-unit>
       <trans-unit id="Software dimming gamma adjustment strength" xml:space="preserve">
         <source>Software dimming gamma adjustment strength</source>
-        <target state="translated">調光時的伽馬調整強度</target>
+        <target state="translated">調光時的伽瑪調整強度</target>
         <note/>
       </trans-unit>
       <trans-unit id="Some Apple displays use Presets to manage display color reproduction, gamma, white point settings. Color Profiles can still be used to influence rendering to a limited extent however Presets work best when the factory default Color Profile is configured for the Apple display." xml:space="preserve">
@@ -7958,7 +7958,7 @@ Not all displays support DDC power operations. DDC power operations can cause (e
       </trans-unit>
       <trans-unit id="Some displays forget changes made via DDC commands after sleep. With this enabled, the app reapplies DDC settings every time the display wakes." xml:space="preserve">
         <source>Some displays forget changes made via DDC commands after sleep. With this enabled, the app reapplies DDC settings every time the display wakes.</source>
-        <target state="translated">某些顯示器在睡眠後會忘記通過 DDC 命令所做的更改。啟用此功能後，每次顯示器喚醒時，應用程式都會重新套用 DDC 設定。</target>
+        <target state="translated">某些顯示器在睡眠後會忘記通過 DDC 指令所做的更改。啟用此功能後，每次顯示器喚醒時，應用程式都會重新套用 DDC 設定。</target>
         <note/>
       </trans-unit>
       <trans-unit id="Some displays require an SCS (Save Current Settings) signal after DDC write so the operation takes effect. For the overwhelming majority of displays it is best to leave this setting off." xml:space="preserve">
@@ -8018,7 +8018,7 @@ Not all displays support DDC power operations. DDC power operations can cause (e
       </trans-unit>
       <trans-unit id="Standard Framebuffer" xml:space="preserve">
         <source>Standard Framebuffer</source>
-        <target state="translated">標準幀緩存</target>
+        <target state="translated">標準影格緩衝區</target>
         <note/>
       </trans-unit>
       <trans-unit id="Standard step size" xml:space="preserve">
@@ -8283,7 +8283,7 @@ Not all displays support DDC power operations. DDC power operations can cause (e
       </trans-unit>
       <trans-unit id="The DDC reset command might not work properly for all displays. You can also try using the built-in factory reset functionality of the display (usually accessible via the display OSD)." xml:space="preserve">
         <source>The DDC reset command might not work properly for all displays. You can also try using the built-in factory reset functionality of the display (usually accessible via the display OSD).</source>
-        <target state="translated">DDC 重置命令可能無法對所有顯示器生效。您也可嘗試顯示器的內置出廠重置（通常可通過顯示器調整浮動視窗 (OSD) 連接）。</target>
+        <target state="translated">DDC 重置指令可能無法對所有顯示器生效。您也可嘗試顯示器的內建出廠重置（通常可通過顯示器調整浮動視窗 (OSD) 連接）。</target>
         <note/>
       </trans-unit>
       <trans-unit id="The app automatically attempts to reconnect all displays when no connected display is present." xml:space="preserve">
@@ -8298,7 +8298,7 @@ Not all displays support DDC power operations. DDC power operations can cause (e
       </trans-unit>
       <trans-unit id="The app menu icon will reflect the icon of the current main display. Enable if you don't like the default icon…" xml:space="preserve">
         <source>The app menu icon will reflect the icon of the current main display. Enable if you don't like the default icon…</source>
-        <target state="translated">應用程式選單圖示將反映目前主顯示器的圖示。如不喜歡預設圖示請啟用…</target>
+        <target state="translated">選單列圖示將改為目前主顯示器的圖示。不喜歡預設圖示時，請開啟選項</target>
         <note/>
       </trans-unit>
       <trans-unit id="The app menu will show this name instead of the system name for the display. If you want to change the system-wide name, you can do so by enabling the configuration override option and editing the system display name." xml:space="preserve">
@@ -8557,7 +8557,7 @@ In case of a failure, disconnect and reconnect the display physically.</source>
       </trans-unit>
       <trans-unit id="This allows advanced dimming, color adjustments and other features like software XDR/HDR upscaling. Note: color adjustments clip HDR content when in active use. If this option is disabled, the app will fall back to overlay based dimming control and uses Metal for software XDR/HDR upscaling." xml:space="preserve">
         <source>This allows advanced dimming, color adjustments and other features like software XDR/HDR upscaling. Note: color adjustments clip HDR content when in active use. If this option is disabled, the app will fall back to overlay based dimming control and uses Metal for software XDR/HDR upscaling.</source>
-        <target state="translated">此功能可實現進階調光、色彩調節和其他功能，如軟體 XDR/HDR 提升。注意：色彩調整在使用中會影響 HDR 內容。禁用此選項時，程式將退回到基於疊加層的調光控制並采用 Metal 進行軟體 XDR/HDR 提升。</target>
+        <target state="translated">此功能可實現進階調光、色彩調節和其他功能，如軟體 XDR/HDR 提升。注意：色彩調整在使用中會影響 HDR 內容。禁用此選項時，程式將退回到基於疊加層的調光控制並使用 Metal 進行軟體 XDR/HDR 提升。</target>
         <note/>
       </trans-unit>
       <trans-unit id="This allows the dimming or image adjustment overlay to take effect on the lock screen." xml:space="preserve">
@@ -8640,7 +8640,7 @@ Please note that not all displays support DDC power operations and some displays
       </trans-unit>
       <trans-unit id="This menu item is redundant if the header is set to present the function as a switch." xml:space="preserve">
         <source>This menu item is redundant if the header is set to present the function as a switch.</source>
-        <target state="translated">標題欄設定將功能顯示為開關時此選單多余。</target>
+        <target state="translated">顯示器標題列已有開關選項時，則此選單項是多餘的。</target>
         <note/>
       </trans-unit>
       <trans-unit id="This might help solve issues with certain configurations." xml:space="preserve">
@@ -9361,7 +9361,7 @@ You can dismiss this notification - in this case the changes will be applied whe
       </trans-unit>
       <trans-unit id="Use mute/unmute methods" xml:space="preserve">
         <source>Use mute/unmute methods</source>
-        <target state="translated">采用靜音/非靜音方式</target>
+        <target state="translated">使用靜音/非靜音方式</target>
         <note/>
       </trans-unit>
       <trans-unit id="Use this multiplier to convert the control's internal value to the value expected (or provided) by the integrated device." xml:space="preserve">
@@ -9380,7 +9380,7 @@ You can dismiss this notification - in this case the changes will be applied whe
       </trans-unit>
       <trans-unit id="Use zero to disable transition animation." xml:space="preserve">
         <source>Use zero to disable transition animation.</source>
-        <target state="translated">采用 0 值禁用過渡動畫。</target>
+        <target state="translated">設定為 0 時，禁用轉換動畫。</target>
         <note/>
       </trans-unit>
       <trans-unit id="VCP Code" xml:space="preserve">
